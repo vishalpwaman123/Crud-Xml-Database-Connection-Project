@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OiwIdy/hunXESo8K3hZTpYG8HegWJkIjVipuYUPK4nhm8Kq3lTYmMQZ3wlUok9/jhtHp3z41lNMkkYl7/ZASQA==",
+  "dgSpecHash": "PuGmaYPsx/kq59N68YXCNHZ3F9WPkMV1gCxDIh0ega++Y1aPVOitMK10Us6ptnHcsSeTuNUI4MQa8tCw6qhXIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vishal\\source\\repos\\CRUDXmlDbProject\\CRUDXmlDbProject\\CRUDXmlDbProject.csproj",
+  "projectFilePath": "C:\\Users\\Vishal\\Documents\\Visual studio Backend\\Example\\Crud-Xml-Database-Connection-Project\\CRUDXmlDbProject\\CRUDXmlDbProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vishal\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Vishal\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
@@ -96,8 +96,7 @@
     "C:\\Users\\Vishal\\.nuget\\packages\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\Vishal\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Vishal\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Vishal\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Vishal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+    "C:\\Users\\Vishal\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -4902,11 +4902,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vishal\\source\\repos\\CRUDXmlDbProject\\CRUDXmlDbProject\\CRUDXmlDbProject.csproj",
+      "projectUniqueName": "C:\\Users\\Vishal\\Documents\\Visual studio Backend\\Example\\Crud-Xml-Database-Connection-Project\\CRUDXmlDbProject\\CRUDXmlDbProject.csproj",
       "projectName": "CRUDXmlDbProject",
-      "projectPath": "C:\\Users\\Vishal\\source\\repos\\CRUDXmlDbProject\\CRUDXmlDbProject\\CRUDXmlDbProject.csproj",
+      "projectPath": "C:\\Users\\Vishal\\Documents\\Visual studio Backend\\Example\\Crud-Xml-Database-Connection-Project\\CRUDXmlDbProject\\CRUDXmlDbProject.csproj",
       "packagesPath": "C:\\Users\\Vishal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vishal\\source\\repos\\CRUDXmlDbProject\\CRUDXmlDbProject\\obj\\",
+      "outputPath": "C:\\Users\\Vishal\\Documents\\Visual studio Backend\\Example\\Crud-Xml-Database-Connection-Project\\CRUDXmlDbProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vishal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4962,12 +4962,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -4976,7 +4970,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
